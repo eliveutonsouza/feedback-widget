@@ -1,5 +1,3 @@
-## Para inciar o Servidor: npm run dev
-
-## Site para fazer teste de envio de e-mail
+## Website to test email sending
 
 - https://mailtrap.io/inboxes
