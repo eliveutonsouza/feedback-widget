@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="./.github/ImageFeedbackWidget.png" alt="Project logo"></a>
+ <img src="./.github/bg-readme.png" alt="Project logo"></a>
 </p>
 <h3 align="center">Feedback Widget</h3>
 
